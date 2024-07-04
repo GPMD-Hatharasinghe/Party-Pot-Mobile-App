@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "207370967827",
+    "project_id": "party-pot",
+    "storage_bucket": "party-pot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207370967827:android:3a41524e768365c4bed8e6",
+        "android_client_info": {
+          "package_name": "com.example.partypot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqQXz87M0iKs8NwSzd-VePUfIkkUOZr9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
